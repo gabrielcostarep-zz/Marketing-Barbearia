@@ -66,7 +66,7 @@ a:hover {
     text-align: center;
 }
 
-.card1{
+.card1 {
     line-height: 1000px;
 }
 
@@ -401,13 +401,26 @@ tr a:hover {
 }
 
 @media screen and (max-width: 600px) {
+/* Introdução */
+    .introduction {
+        background-attachment: scroll;
+        height: 500px;
+    }
 
-    /* Sobre */
+    .card1 {
+        line-height: 500px;
+    }
+
+/* Sobre */
     .container img {
         width: 0px;
     }
 
-    /* Serviços */
+/* Serviços */
+    .category {
+        margin-bottom: 20px;
+    }
+
     #service {
         height: 350px;
     }
@@ -420,7 +433,7 @@ tr a:hover {
         margin-bottom: 10px;
     }
 
-    /* Galeria */
+/* Galeria */
     #galery {
         margin-bottom: 80px;
     }
@@ -430,7 +443,7 @@ tr a:hover {
         margin-bottom: 40px;
     }
 
-    /* Contato */
+/* Contato */
 
     #contato {
         height: 350px;
@@ -438,7 +451,7 @@ tr a:hover {
     }
 
     .text-contato h2 {
-        padding-top: 10px;
+        padding-top: 5px;
         margin-bottom: 5px;
     }
 
@@ -448,11 +461,11 @@ tr a:hover {
     }
 
     textarea {
-        height: 110px;
+        height: 90px;
         margin-bottom: 5px;
     }  
 
-    /* Informações  */
+/* Informações  */
 
     #information {
         margin-bottom: 30px;
