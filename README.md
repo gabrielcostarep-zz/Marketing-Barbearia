@@ -1,2 +1,1 @@
-# Marketing-Barbearia
- Exemplo de uma pagina para o marketing de uma barbearia
+# Exemplo de uma pagina para o marketing de uma barbearia
