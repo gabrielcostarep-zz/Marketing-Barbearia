@@ -193,7 +193,7 @@ ul {
 }
 
 .img-galery img {
-    width: 470px;
+    width: 500px;
     box-shadow:
 	0 2.8px 2.2px rgba(0, 0, 0, 0.034),
 	0 6.7px 5.3px rgba(0, 0, 0, 0.048),
@@ -392,6 +392,12 @@ tr a:hover {
     .text-cont {
         float: none;
     }
+
+/* Galeria */
+
+    .img-galery img {
+        width: 370px;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -433,17 +439,17 @@ tr a:hover {
 
     .text-contato h2 {
         padding-top: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
 
     .requerid {
         width: 100%;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
 
     textarea {
         height: 110px;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }  
 
     /* Informações  */
