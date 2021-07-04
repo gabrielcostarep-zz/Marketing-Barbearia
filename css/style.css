@@ -302,6 +302,11 @@ td {
     padding-left: 50px;
 }
 
+.nm {
+    padding-left: 0;
+    margin-left: 0;
+}
+
 tr a {
     text-decoration: none;
     font-family: 'Mono', monospace;
@@ -401,14 +406,24 @@ tr a:hover {
 }
 
 @media screen and (max-width: 600px) {
+/* Cabeçalho */
+    nav a {
+        display: none;
+    }
+
+    .img_container img {
+        width: 150px;
+        top: 10px;
+    }
+
 /* Introdução */
     .introduction {
         background-attachment: scroll;
-        height: 500px;
+        height: 700px;
     }
 
     .card1 {
-        line-height: 500px;
+        line-height: 700px;
     }
 
 /* Sobre */
@@ -479,7 +494,12 @@ tr a:hover {
 
     td {
         font-size: 11px;
-        padding-right: 15px;
-        padding-left: 15px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .nm {
+        padding-left: 0;
+        margin-left: 0;
     }
 }
