@@ -1,4 +1,4 @@
- Acesse a página [Clicando Aqui](https://gabrielcostarep.github.io/Marketing-Barbearia/)
+➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Marketing-Barbearia/) ⬅️
 
  <div align="center" >
   <img src="./Readme-gif.gif" alt="demo-web" height="425">
