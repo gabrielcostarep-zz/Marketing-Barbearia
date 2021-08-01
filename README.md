@@ -1,4 +1,4 @@
-💈 Exemplo de uma página para o marketing de uma barbearia
+💈 Exemplo de uma página para o marketing de uma barbearia feita no inicio da minha jornada como desenvolvedor web.
 
 ➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Marketing-Barbearia/) ⬅️
 
